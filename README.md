@@ -11,3 +11,4 @@
 + and more...
 + Possible ADS appear (Safe and non-offensive)
 #API
+Detail: https://tubeapi.me
