@@ -9,6 +9,5 @@
 + Bitrate: MP3(192Kbps), MP4(720p)
 + Videos are longer than 2 hours
 + and more...
-+ Possible ADS appear (Safe and non-offensive)
 
-#Detail: https://tubeapi.me
+#Detail: https://ytbapi.com
